@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f9a027e1-3cc6-43bd-a6ae-39bfcf4f15b1" name="Changes" comment="" />
+    <list default="true" id="f9a027e1-3cc6-43bd-a6ae-39bfcf4f15b1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/kettybluesky.github.io.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/image-20210829074821126.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/image-20210829172027076.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/image-20210829174506699.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/image-20210830202343908.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/image-20210901211814003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/image-20210901213111175.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/image-20210905161922104.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/image-20210905164710132.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/image-20210905165954795.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/image-20210905220729530-16308508535561.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/image-20210905220729530.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/image-20210905224033149-16308528355272.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/image-20210905224033149.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/image-20210905225839647.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CNAME" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.landscape.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scaffolds/draft.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scaffolds/page.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scaffolds/post.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/hello-world.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/.gitkeep" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,8 +49,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -37,6 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1633839581854</updated>
       <workItem from="1633839583841" duration="999000" />
+      <workItem from="1634836101482" duration="102000" />
     </task>
     <servers />
   </component>
@@ -53,6 +85,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
